@@ -2,7 +2,7 @@ baseURL = 'http://samsam0325.github.io'
 languageCode = 'zh-tw'
 title = 'WTF is this SHXT?'
 buildDrafts = false
-theme = "Papermod"
+theme = "PaperMod"
 
 [[menu.main]]
  
